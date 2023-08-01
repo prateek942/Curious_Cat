@@ -10,6 +10,7 @@ import Router from './routes/route.js';
 
 dotenv.config();
 
+
 const app = express();
 
 app.use(cors());
